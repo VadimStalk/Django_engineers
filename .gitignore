@@ -1,0 +1,3 @@
+*.pyc
+/engineers/__pycache__/
+db.sqlite3
