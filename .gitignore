@@ -1,5 +1,5 @@
 *.pyc
-/engineers/__pycache__/
+__pycache__
 /db.sqlite3
 ovn_cache/
-media/
+media/__pycache__
